@@ -2,10 +2,9 @@
 
 ## Objective
 
- Test Test
 
 ## Analyze
-
+Example Portfolio 1: https://tylerwisniewski.github.io/cev/ 
 
 ## Decide
 
