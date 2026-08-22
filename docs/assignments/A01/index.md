@@ -27,6 +27,21 @@ Example Portfolio 2: [Nathan Hoong](https://nhoong.github.io/)
 
 ## Decide
 
+**Navigability**
+
+The assignments on this portfolio can be found in well under 60 seconds on the opening page which showcases a slideshow of images that contain CAD models, engineering drawings, and electrical schematics.  Each of the parts is paired with a title and description that explains the objective that it was meant to fufill and the final result they came to.  Because of this concise structure, the user experience is very smooth and low-effort.
+
+**Reproducibility**
+
+
+
+**Evidence of Reasoning**
+
+
+
+**Professionalism**
+
+
 
 ## Communicate
 
