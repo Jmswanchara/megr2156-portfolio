@@ -20,7 +20,7 @@ The portfolio doesn't include a strong justification for the design choices that
 
 **Professionalism**
 
-Finally, the professional language in the portfolio is lacking.  Some of the pages contain pictures and jokes that do not add to the project and only hold value to the people included in the project such as an inside joke.  Even though this isn't reflective of all the whole portfolio, as a whole this isn't something I'd want to share with a potential employer because such things stand out.
+The professional tone necessary for a portfolio seen by potential employers is lacking.  Some of the pages contain selfies and memes that are irrelevant to the project and only hold value to the people included in the project, like an inside joke.  Even though this isn't reflective of the whole portfolio, replacing the informal media with the correct engineering terminology, graphical data, or removing them entirely would greatly improve the professionalism of the portfolio.
 
 Example Portfolio 2: [Nathan Hoong](https://nhoong.github.io/)
 
