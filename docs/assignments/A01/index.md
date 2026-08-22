@@ -26,11 +26,11 @@ Example Portfolio 2: [Nathan Hoong](https://nhoong.github.io/)
 
 **Navigability**
 
-The assignments on this portfolio can be found in well under 60 seconds on the opening page which showcases a slideshow of images that contain CAD models, engineering drawings, and electrical schematics.  Each of the parts is paired with a title and description that explains the objective that it was meant to fufill and the final result they came to.  Because of this concise structure, the user experience is very smooth and low-effort.
+The assignments on this portfolio can be found in well under 60 seconds on the opening page which showcases a slideshow of images that contain CAD models, engineering drawings, and electrical schematics.  Each of the parts is paired with a title and description that explains the objective that it was meant to fulfill and the final result achieved.  Because of this concise structure, the user experience is very smooth and low-effort.
 
 **Reproducibility**
 
-
+Despite the inclusion of a title, description, and final result, the assignments lack the ability to expand the engineering drawings and other visual assets.  This makes it difficult to see important dimensions, tolerances, and materials that were used for these designs.  Downloadable CAD files for each of the parts are also not included, so reproducibility is limited since the final result would have to be remodeled from scratch.
 
 **Evidence of Reasoning**
 
