@@ -34,7 +34,7 @@ Despite the inclusion of a title, description, and final result, the assignments
 
 **Evidence of Reasoning**
 
-
+This portfolio doesn't provide the technical analysis behind the schematics that are given for each part.  Instead, the objective and final result are given, foregoing any design iterations or modifications that display what challenges were faced and what was changed to navigate around them.  The only additional information given comes from captions under specific CAD models or drawings, but these describe the perspective of the drawing, not what has changed.
 
 **Professionalism**
 
