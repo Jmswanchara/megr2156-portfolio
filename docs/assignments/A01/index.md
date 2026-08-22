@@ -38,7 +38,7 @@ This portfolio doesn't provide the technical analysis behind the schematics that
 
 **Professionalism**
 
-
+All phrasing throughout the portfolio is consistently professional.  The author refrains from using informal language across the introduction or any of the design descriptions, only explaining what the objectives and results were in a very concise manner.  
 
 ## Decide
 
