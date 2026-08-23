@@ -3,9 +3,6 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 
 theme:
   name: material
-  font:
-    text: Source Serif 4
-    code: JetBrains Mono
   palette:
     primary: green
   features:
