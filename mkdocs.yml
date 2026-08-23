@@ -3,6 +3,9 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 
 theme:
   name: material
+  font:
+    text: Public Sans
+    code: Fira Code
   palette:
     primary: green
   features:
