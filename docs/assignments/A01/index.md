@@ -6,6 +6,8 @@
 ## Analyze
 Example Portfolio 1: [Tyler Wisniewski](https://tylerwisniewski.github.io/cev/)
 
+#**Task A**
+
 **Navigability**
 
 This portfolio contains a centralized tab dedicated to all of the available projects with pictures included, keeping the structure organized and the project catalogue quick to reach in just a couple clicks.  However, all of the projects are displayed as images without captions or titles.  This adds friction to what would be an intuitive layout because it forces the user to click through each since only a handful of the images reflect what the actual finished project is.
@@ -39,6 +41,10 @@ This portfolio doesn't provide the technical analysis behind the schematics that
 **Professionalism**
 
 All phrasing throughout the portfolio is consistently professional.  The author refrains from using informal language across the introduction or any of the design descriptions, only explaining what the objectives and results were in a very concise manner.  
+
+#**Task B**
+
+
 
 ## Decide
 
