@@ -48,6 +48,9 @@ All phrasing throughout the portfolio is consistently professional.  The author 
 
 ## Decide
 
+**Homepage Identity**
+
+The homepage acts as a directory to all the information about this engineering record the viewer will want to see.  It contains tabs that label the sections of the portfolio, making it very easy for the viewer to pick out what it is they came here for.  If they came for the weekly assignments for example, they can click once on the designated tab and easily find what they are looking for.  There is a banner and title at the top of the homepage that displays the author's name and the class this portfolio represents, which effectively communicates to the viewer what the assignments are based upon.  The standard for the portfolio is communicated through the main body of the homepage, where the structure of each assignment and the purpose of each pillar is explained.
 
 ## Communicate
 
