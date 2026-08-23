@@ -4,8 +4,8 @@ site_description: Design portfolio documentation, built with the Analyze / Decid
 theme:
   name: material
   font:
-    text: Public Sans
-    code: Fira Code
+    text: Source Serif 4
+    code: JetBrains Mono
   palette:
     primary: green
   features:
