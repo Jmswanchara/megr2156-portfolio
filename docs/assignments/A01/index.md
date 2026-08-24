@@ -6,7 +6,7 @@
 ## Analyze
 Example Portfolio 1: [Tyler Wisniewski](https://tylerwisniewski.github.io/cev/)
 
-#**Task A**
+**Task A**
 
 **Navigability**
 
@@ -42,7 +42,7 @@ This portfolio doesn't provide the technical analysis behind the schematics that
 
 All phrasing throughout the portfolio is consistently professional.  The author refrains from using informal language across the introduction or any of the design descriptions, only explaining what the objectives and results were in a very concise manner.  
 
-#**Task B**
+**Task B**
 
 
 
