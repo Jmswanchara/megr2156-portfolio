@@ -50,9 +50,9 @@ The primary function of this product is to take two rotational input moments at 
 
 **Governing Model**
 
-$$\sum M = 0$$
+$$F_{\text{in}} \cdot d_{\text{in}} = F_{\text{out}} \cdot d_{\text{out}}$$
 
-$$F_{\text{hand}} \cdot L_{\text{handle}} = F_{\text{cut}} \cdot L_{\text{blade}}$$
+$$\text{MA} = \frac{d_{\text{in}}}{d_{\text{out}}}$$
 
 ## Decide
 
