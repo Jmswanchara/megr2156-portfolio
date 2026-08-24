@@ -54,6 +54,10 @@ $$F_{\text{in}} \cdot d_{\text{in}} = F_{\text{out}} \cdot d_{\text{out}}$$
 
 $$\text{MA} = \frac{d_{\text{in}}}{d_{\text{out}}}$$
 
+Variables:
+
+$F_{\text{in}}$
+
 ## Decide
 
 **Homepage Identity**
