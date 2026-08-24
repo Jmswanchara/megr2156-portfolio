@@ -1,4 +1,4 @@
-# A1 – [Topic]
+# A1 – [Portfolio Creation]
 
 ## Objective
 
@@ -50,7 +50,11 @@ The primary function of this product is to take two rotational input moments at 
 
 **Governing Model**
 
+$$\sum M_{\text{pivot}} = 0 \implies F_{\text{hand}} \cdot d_{\text{hand}} = F_{\text{cut}} \cdot d_{\text{cut}}$$
 
+$$\text{Mechanical Advantage (MA)} = \frac{F_{\text{cut}}}{F_{\text{hand}}} = \frac{d_{\text{hand}}}{d_{\text{cut}}}$$
+
+$$\tau = \frac{F_{\text{cut}}}{A_{\text{shear}}}$$
 
 ## Decide
 
