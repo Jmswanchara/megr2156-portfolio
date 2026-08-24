@@ -54,5 +54,11 @@ The homepage acts as a directory to all the information about this engineering r
 
 **One Intentional Customization**
 
+I updated the portfolio from the default typography to Public Sans for the body text.  This provides a slightly more spaced out and modern look to the text that improves readability.  This change overall ensures a clean visual hierarchy for the webpage, which helps direct the viewer's attention in densely worded sections.  The original typography was generic and blended together in a way that increased visual fatigue and diminished the standards presented.
+
+**Your Documentation Standard**
+
+I am committing to providing clear calculations, evidence, and ever-improving technical reasoning in my analysis for all of my submissions.
+
 ## Communicate
 
