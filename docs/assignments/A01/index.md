@@ -44,6 +44,12 @@ All phrasing throughout the portfolio is consistently professional.  The author 
 
 **Task B - Product Analysis**
 
+**Product Function**
+
+The primary function of this product is to take two rotational input moments at the handles and apply two opposing shear forces onto a target that will cause local mechanical shear failure in a straight line.  
+
+**Governing Model**
+
 
 
 ## Decide
