@@ -72,6 +72,10 @@ $\text{MA}$: The mechanical advantage of the system
 
 ![Blade Component 1](blade1.jpeg)
 
+_A steel blade with a molded plastic grip that contains an extruding steel stud responsible for interlocking and enabling rotational movement_
+
+![Blade Component 2](blade2.jpeg)
+
 ## Decide
 
 **Homepage Identity**
