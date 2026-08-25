@@ -70,7 +70,7 @@ $\text{MA}$: The mechanical advantage of the system
 
 **Photograph Analysis of Kitchen Shears**
 
-
+![Separated Components](blade1.jpg)
 
 ## Decide
 
