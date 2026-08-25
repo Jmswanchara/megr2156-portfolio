@@ -93,7 +93,9 @@ Instead of two blades, a kitchen knife uses a single blade to accomplish the cut
 
 A pizza cutter uses one circular blade that cuts along the edge when pressed with a downward force and rolled in a linear direction.  Similar to the kitchen knife, it requires another surface like a cutting board and more manual control from the user to  cut through the target material completely.
 
+**Technical Design Decision**
 
+I noticed from the geometry of the shears that the rotational position required to disengage and separate both blades far exceeds the standard operating range for cutting.  This decision was made to prevent accidental disassembly or damage to the shears from the components disengaging while in use.  Requiring the orientation of the blades to be at such an exaggerated angle keeps the blades secure during standard operation while still allowing for a wide range of motion and the ability to take them apart for cleaning.
 
 ## Decide
 
