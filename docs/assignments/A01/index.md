@@ -85,7 +85,9 @@ _US Patent Number:_ US20070209213A1
 
 _Author:_ Rama Chorpash
 
+**Alternative 1 - Kitchen Knife**
 
+Instead of two blades, a kitchen knife uses a single blade to accomplish the cutting operation against a secondary surface, such as cutting board.  Using the kitchen knife requires more manual control from the user over the angle and downward force, because there is no opposing blade to ensure the cut isn't jagged and is consistent through the material.
 
 ## Decide
 
