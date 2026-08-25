@@ -89,6 +89,12 @@ _Author:_ Rama Chorpash
 
 Instead of two blades, a kitchen knife uses a single blade to accomplish the cutting operation against a secondary surface, such as cutting board.  Using the kitchen knife requires more manual control from the user over the angle and downward force, because there is no opposing blade to ensure the cut isn't jagged and is consistent through the material.
 
+**Alternative 2 - Pizza Cutter**
+
+A pizza cutter uses one circular blade that cuts along the edge when pressed with a downward force and rolled in a linear direction.  Similar to the kitchen knife, it requires another surface like a cutting board and more manual control from the user to  cut through the target material completely.
+
+
+
 ## Decide
 
 **Homepage Identity**
