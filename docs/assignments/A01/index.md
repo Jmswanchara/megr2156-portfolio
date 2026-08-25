@@ -68,6 +68,10 @@ $\text{MA}$: The mechanical advantage of the system
 
 **Governing Assumption:** Both components act as rigid bodies that experience minimal bending while cutting, guaranteeing that the full moment is transferred into the target surface at the center of the blades.
 
+**Photograph Analysis of Kitchen Shears**
+
+
+
 ## Decide
 
 **Homepage Identity**
