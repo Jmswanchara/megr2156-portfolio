@@ -4,9 +4,10 @@
 
 
 ## Analyze
-Example Portfolio 1: [Tyler Wisniewski](https://tylerwisniewski.github.io/cev/)
 
 **Task A - Portfolio Analysis**
+
+Example Portfolio 1: [Tyler Wisniewski](https://tylerwisniewski.github.io/cev/)
 
 **Navigability**
 
@@ -77,6 +78,14 @@ _Figure 1. A steel blade with a molded plastic grip that contains an extruding s
 ![Blade Component 2](blade2.jpeg)
 
 _Figure 2. A matching steel blade opposite of the first with an opening designed to accept the stud and lock it in place during rotation_
+
+**Patent Research**
+
+_US Patent Number:_ US20070209213A1
+
+_Author:_ Rama Chorpash
+
+
 
 ## Decide
 
