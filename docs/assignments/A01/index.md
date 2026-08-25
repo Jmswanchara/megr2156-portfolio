@@ -56,7 +56,11 @@ $$\text{MA} = \frac{d_{\text{in}}}{d_{\text{out}}}$$
 
 Variables:
 
-$F_{\text{in}}$
+$F_{\text{in}}$: The input force from the user's hand on the grip of the shears
+$d_{\text{in}}$: The distance from the center of the pivot pin to the center of the grips
+$F_{\text{out}}$: The output cutting force exerted by the blades onto the target object 
+$d_{\text{out}}$: The distance from the center of the pivot pin to the center point of contact for the cut
+$\text{MA}$: The mechanical advantage of the system
 
 ## Decide
 
