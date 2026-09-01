@@ -8,7 +8,7 @@ Above are the parameters given for designing my own truss.  My approach to my de
 
 # Design
 
-![Truss FBD](Truss_FBD.png)
+![Truss FBD](Truss_FBD2.jpg)
 
 This design is reliable for this assignment because it keeps the number of elements to a minimum. With the full truss laid out, I could examine the external forces and find the relationship between the vertical components of the supports at A and B.  A had an x component, but since there wasn't a matching external force I knew that this force would be equal to zero.
 
