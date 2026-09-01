@@ -53,3 +53,5 @@ Alongside my calculations I also made a free body diagram that displayed the she
 ## **CAD**
 
 [Truss Final Part](trussfinal.prt.1)
+
+[Pin](pin_a02_part.prt.1)
