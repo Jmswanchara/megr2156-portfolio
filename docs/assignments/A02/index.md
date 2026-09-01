@@ -22,7 +22,7 @@ After marking down the forces on the truss FBD, I calculated Ay and By through t
 
 ![Joint B Forces](Joint_B_Forces.png)
 
-The pin at A has an additional force compared to the roller at B, so I chose to start at joint B for calculating my way through all the internal forces via method of Joints.  I first drew out the free body diagram and then wrote the net force equations in the x and y before isolating the force I wanted, which was Fbc and Fbe respectively in this case.  Then I inserted my known values and got the numerical forces of both.  I would occasionally need to add some extra calculations for necessary trigonometry when splitting force components.  This process was duplicated for every joint on the way to pin A.
+The pin at A has an additional force compared to the roller at B, so I chose to start at joint B for calculating my way through all the internal forces via method of Joints.  I first drew out the free body diagram and then wrote the net force equations in the x and y before isolating the force I wanted, which was Fbc and Fbe respectively in this case.  Then I inserted my known values and got the numerical forces of both.  I would occasionally need to add some extra calculations for necessary trigonometry when splitting force components.  This process was duplicated for every joint on the way to pin A.  This was a smooth process other than one bump at joint C, where my rounding had caused a force that was supposed to cancel out to zero have a slightly different value.  Because of my acknowledgement of it as a rounding error and being only being ~0.01 N off, I just rounded down.
 
 ![Max Loads](Max_Loads.png)
 
@@ -56,9 +56,15 @@ For the pin calculations, I needed to convert the units for the given density an
 
 ![Angle Measurement](Angle_Measurement.png)
 
+This was the start of the most difficult part of this assignment for me.  I chose to use Creo because I had experience from previous classes, even if that experience was a little rusted.  I was also unable to get SolidWorks to properly install on my device, so I cut my losses and went back to Creo.  Amidst my struggling with modeling, I noticed I was missing an important parameter that was necessary for lining up the angular elements at joint E.  This was important because these where the most difficult parts to line up, and they needed to have the proper angle dimensions for me to have a chance at this working.  So, I went back into my notes and did another calculation so I could have the right angle value in my model.  This temporarily fixed by issue with this joint as a whole.
+
 ![Pin Diameter](Pin_Diameter.png)
 
+After much more struggling, I got my truss as close to my design as I could but I could also acknowledge a fair amount of flaws.  I was now looking at removing material for the pin holes at each of the joints, before I was reminded of another calculation I had forgotten.  In order to make holes for the pins, I needed to know the diameter of those pins.  I went back to my pin calculations and symbolically solved for diameter from the area formula, then inserted my minimum cross sectional area for the pins to get a value to use for the pin hole diameter.
+
 ![Truss Screenshot](Truss_screenshot.png)
+
+I now had a completed truss that was lined up as good as I could get it.  I extruded each piece in roughly the same order I went for the Method of Joints.  I treated my horizontal elements as my primary elements, and built off of them for my angled elements because they required more parameters to be available otherwise Creo wouldn't let them be properly defined.  All of my elements had the dimensions I calculated for them and were lined up the best they could be.  The most difficult component was Joint E, despite my use of construction lines, I was not able to get the pin hole to line up the way I expected it to.
 
 ![Mass Properties](Mass_Properties.png)
 
