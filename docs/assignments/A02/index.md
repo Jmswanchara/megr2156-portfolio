@@ -76,5 +76,7 @@ I faced another hurdle when trying to implement mass properties because of the l
 
 ## **Communication**
 
+In my technical analysis, I got to experience how critical the necessity of consistency in units is.  My design, which I was confident in, very quickly deteriorated when I wasn't able to clarify my units properly in Creo.  While in the default inches for Creo I was putting my dimensions in as meters, when they should have been in millimeters to keep up with better consistency.  This led to me not being able to properly validate my dimensions with each other in my truss, and it was creating more difficult obstacles with each passing element that I tried to add.  These struggles only added to the time I dedicated to the assignment, and my frustration going forward, leading to other potential mistakes.  This assignment has helped remind me to compare hand written calculations with digital modeling dimensions consistently and thoroughly to ensure complete correlation between them.
 
+This assignment took me 16 hours.
 
