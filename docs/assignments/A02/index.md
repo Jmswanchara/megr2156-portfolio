@@ -36,7 +36,7 @@ The first thing I did while preparing to find the necessary cross sectional area
 
 ![Element A and W](Element_A_and_W.png)
 
-Same as when calculating the 
+Same as when calculating the internal and external forces, I solved for the cross sectional area and weight for the elements symbolically first before inserting the values from the list of "Knowns," Most notably being the density and yield strength of A500 steel.  Once the cross sectional area was found, I could use it to find the length of the elements, one of the listed "Unknowns," which could be used to find the volume for weight.  For this assignment I opted to include all of the components in one equation to better keep track of each variable being used, so while I didn't solve for volume on its own, it is included in my weight calculation as AL (Area * Length).  This was multiplied by the density and force of gravity in order to arrive at weight.
 
 # **Pin Weight and Cross Sectional Area**
 
