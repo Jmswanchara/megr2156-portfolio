@@ -54,6 +54,12 @@ For the pin calculations, I needed to convert the units for the given density an
 
 ## **CAD**
 
+[Angle Measurement](Angle_Measurement.png)
+
+[Truss Screenshot](Truss_screenshot.png)
+
+[Mass Properties](Mass_Properties.png)
+
 [Truss Final Part](trussfinal.prt.1)
 
 [Pin](pin_a02_part.prt.1)
