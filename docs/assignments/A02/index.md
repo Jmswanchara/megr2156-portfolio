@@ -14,6 +14,10 @@ This design is reliable for this assignment because it keeps the number of eleme
 
 ![Initial Truss Forces](Initial_Truss_Forces.png)
 
-After marking down the forces on the truss FBD, I calculated Ay and By through the net force in the y direction and moment about A.  With two equations and two unknowns, I was able to solve for the magnitude of the forces in N.  The result was that I found the vertical components for A and B were opposite of each other.  
+After marking down the forces on the truss FBD, I calculated Ay and By through the moment about A and the net force in the y direction where the P forces canceled out.  With two equations and two unknowns, I was able to solve for the magnitude of the forces in N.  The result was that I found the vertical components for A and B were opposite of each other.  
+
+![Joint B Forces](Joint_B_FForces.png)
+
+The pin at A has an additional force compared to the roller at B, so I chose to start at joint B for calculating my way through all the internal forces of the truss.  I first drew out the free body diagram and then wrote the net force equations in the x and y before isolating the force I wanted, which was Fbc and Fbe respectively in this case.  Then I inserted my known values and got the numerical forces of both.  I would occasionally need to add some extra calculations for necessary trigonometry when splitting force components.  This process was duplicated for every joint on the way to pin A.
 
 [Truss Final Part](trussfinal.prt.1)
