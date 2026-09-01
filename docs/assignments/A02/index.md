@@ -68,11 +68,9 @@ I now had a completed truss that was lined up as good as I could get it.  I extr
 
 ![Mass Properties](Mass_Properties.png)
 
-I faced another hurdle when trying to implement mass properties because of the lack of A500 structural steel in the materials list, so I googled the options that were available to find the closest replacement that I could find.  This landed me at low carbon steel, which I believed to be 
+I faced another hurdle when trying to implement mass properties because of the lack of A500 structural steel in the materials list, so I googled the options that were available to find the closest replacement that I could find.  This landed me at low carbon steel, which I believed to be the closest of the densities available in the Creo catalogue.  This, when calculated for the CAD weight, showed how flawed my design was.  My units did not properly line up between my calculations and my modeling, which made the design ineffective early into the modeling stage.  The numbers I calculated were put into Creo at the default unit, which was inches, and I kept my numbers in meters.
 
 [Truss Final Part](trussfinal.prt.1)
-
-Calculating material properties, I found a massive error that I made in my design.  I didn't have consistent units between my calculations and my CAD model, so it was enormously smaller than it was supposed to be.  Had the material density and units been properly aligned, the model would reach a weight in N that would be much closer to the expected weight that I calculated earlier.
 
 [Pin](pin_a02_part.prt.1)
 
