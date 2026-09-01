@@ -50,6 +50,8 @@ Alongside my calculations I also made a free body diagram that displayed the she
 
 ![Pin A and W](Pin_A_and_W.png)
 
+For the pin calculations, I needed to convert the units for the given density and yield shear so that they could be applicable to the rest of my values.  Included in these calculations is my work for the length of the pins, which I took to be the same as the width of the elements.  So, I took my minimal cross sectional area for my elements from my previous calculations and applied a square root in order to get the side length that represented the length of my pins.  This length was needed for finding the weight, which was again presented in a single equation with the components of pin volume included.
+
 ## **CAD**
 
 [Truss Final Part](trussfinal.prt.1)
