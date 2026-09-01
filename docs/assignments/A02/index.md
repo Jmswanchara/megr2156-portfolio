@@ -64,6 +64,8 @@ After much more struggling, I got my truss as close to my design as I could but 
 
 ![Pin Screenshot](Pin_A02_Screenshot.png)
 
+After going back and making those changes, I was able to return to modeling in Creo.  With my new dimension I was able to make my simple pin design with the proper cross sectional area.
+
 ![Truss Screenshot](Truss_screenshot.png)
 
 I now had a completed truss that was lined up as good as I could get it.  I extruded each piece in roughly the same order I went for the Method of Joints.  I treated my horizontal elements as my primary elements, and built off of them for my angled elements because they required more parameters to be available otherwise Creo wouldn't let them be properly defined.  This method turned out to be useful for helping me keep track of what elements were on either side of the primary elements.  All of my elements had the dimensions I calculated for them and were lined up the best they could be.  The most difficult component was Joint E, despite my use of construction lines, I was not able to get the pin hole to line up the way I expected it to.
