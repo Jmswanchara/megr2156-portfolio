@@ -28,10 +28,14 @@ The pin at A has an additional force compared to the roller at B, so I chose to 
 
 After finding all the internal forces, I was able to pick out the two elements holding the maximum tension forces and maximum compression force, Fde and Fce, that would be used for calculating the minimum cross sectional area for all elements.  Since these elements will hold the strongest forces, finding the necessary cross sectional area will allow me to guarantee that it will be strong enough for the remaining elements as well.
 
-# **Cross Sectional Area**
+# **Element Weight and Cross Sectional Area**
 
 ![Beam Knowables](Beam_Knowables.png)
 
 The first thing I did while preparing to find the necessary cross sectional area of my truss elements was list out what I did and didn't know that was related to my calculations.  This helped me out with remembering how exactly I needed to go about calculating the area, since it had been since before summer break that I took Solids.  
+
+![Element A and W](Element_A_and_W.png)
+
+
 
 [Truss Final Part](trussfinal.prt.1)
