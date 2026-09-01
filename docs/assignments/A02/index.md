@@ -62,6 +62,8 @@ This was the start of the most difficult part of this assignment for me.  I chos
 
 After much more struggling, I got my truss as close to my design as I could but I could also acknowledge a fair amount of flaws.  I was now looking at removing material for the pin holes at each of the joints, before I was reminded of another calculation I had forgotten.  In order to make holes for the pins, I needed to know the diameter of those pins.  I went back to my pin calculations and symbolically solved for diameter from the area formula, then inserted my minimum cross sectional area for the pins to get a value to use for the pin hole diameter.
 
+![Pin Screenshot](Pin_A02_Screenshot.png)
+
 ![Truss Screenshot](Truss_screenshot.png)
 
 I now had a completed truss that was lined up as good as I could get it.  I extruded each piece in roughly the same order I went for the Method of Joints.  I treated my horizontal elements as my primary elements, and built off of them for my angled elements because they required more parameters to be available otherwise Creo wouldn't let them be properly defined.  This method turned out to be useful for helping me keep track of what elements were on either side of the primary elements.  All of my elements had the dimensions I calculated for them and were lined up the best they could be.  The most difficult component was Joint E, despite my use of construction lines, I was not able to get the pin hole to line up the way I expected it to.
