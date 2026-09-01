@@ -1,5 +1,5 @@
 # A2 – Truss Stress Analysis
 
-![Mission Parameters](parametersss.png)
+[Mission Parameters](parametersss.png)
 
-![Truss Final Part](trussfinal.prt.1)
+[Truss Final Part](trussfinal.prt.1)
