@@ -14,6 +14,6 @@ This design is reliable for this assignment because it keeps the number of eleme
 
 ![Initial Truss Forces](Initial_Truss_Forces.png)
 
-
+After marking down the forces on the truss FBD, I calculated Ay and By through the net force in the y direction and moment about A.  With two equations and two unknowns, I was able to solve for the magnitude of the forces in N.  The result was that I found the vertical components for A and B were opposite of each other.  
 
 [Truss Final Part](trussfinal.prt.1)
