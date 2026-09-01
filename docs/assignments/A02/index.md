@@ -64,10 +64,19 @@ After much more struggling, I got my truss as close to my design as I could but 
 
 ![Truss Screenshot](Truss_screenshot.png)
 
-I now had a completed truss that was lined up as good as I could get it.  I extruded each piece in roughly the same order I went for the Method of Joints.  I treated my horizontal elements as my primary elements, and built off of them for my angled elements because they required more parameters to be available otherwise Creo wouldn't let them be properly defined.  All of my elements had the dimensions I calculated for them and were lined up the best they could be.  The most difficult component was Joint E, despite my use of construction lines, I was not able to get the pin hole to line up the way I expected it to.
+I now had a completed truss that was lined up as good as I could get it.  I extruded each piece in roughly the same order I went for the Method of Joints.  I treated my horizontal elements as my primary elements, and built off of them for my angled elements because they required more parameters to be available otherwise Creo wouldn't let them be properly defined.  This method turned out to be useful for helping me keep track of what elements were on either side of the primary elements.  All of my elements had the dimensions I calculated for them and were lined up the best they could be.  The most difficult component was Joint E, despite my use of construction lines, I was not able to get the pin hole to line up the way I expected it to.
 
 ![Mass Properties](Mass_Properties.png)
 
+I faced another hurdle when trying to implement mass properties because of the lack of A500 structural steel in the materials list, so I googled the options that were available to find the closest replacement that I could find.  This landed me at low carbon steel, which I believed to be 
+
 [Truss Final Part](trussfinal.prt.1)
 
+Calculating material properties, I found a massive error that I made in my design.  I didn't have consistent units between my calculations and my CAD model, so it was enormously smaller than it was supposed to be.  Had the material density and units been properly aligned, the model would reach a weight in N that would be much closer to the expected weight that I calculated earlier.
+
 [Pin](pin_a02_part.prt.1)
+
+## **Communication**
+
+
+
