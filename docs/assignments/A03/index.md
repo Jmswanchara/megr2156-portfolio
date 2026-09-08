@@ -14,7 +14,7 @@ To start, I chose a diameter which I could use to calculate the cross-sectional 
 
 # **CAD**
 
-
+[A03 Part](A03.SLDPRT)
 
 ![beam](Beam.png)
 
