@@ -14,6 +14,8 @@ To start, I chose a diameter which I could use to calculate the cross-sectional 
 
 # **CAD**
 
+
+
 ![beam](Beam.png)
 
 With my finished model, I went into the equations tab and did my calculations over again.  This time assigning variables for all of the values I used in my hand calculations and confirming my beam length calculation.  The beam was still a little long after seeing it modeled, but it was decent enough to justify leaving it as is.
@@ -35,6 +37,8 @@ After analyzing my von Mises stress map, I saw that my maximum stress was 555.1 
 ## Decide
 
 # **Design Reflection**
+
+![Error Calculation](5902.jpg)
 
 Comparing the deflection in inches given and the deflection gathered from the deflection map in SolidWorks, there is virtually no difference between them.  Calculating the percent error, there is a less than one percent difference between them.  I would expect them to be the same because the dimensions closely compare to the dimensions in the hand calculations with no holes and are combined with simple axial loading.  The negligible difference is a sign that the mesh doesn't need to be changed because there aren't any stress hotspots.  I would overall trust the parametric design more because the CAD model showed a large safety factor in the von Mises stress map, implying that their may be an issue with the design's parameters in SolidWorks, specifically with the material selection.
 
