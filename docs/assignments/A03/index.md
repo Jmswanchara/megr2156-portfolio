@@ -18,11 +18,17 @@ To start, I chose a diameter which I could use to calculate the cross-sectional 
 
 With my finished model, I went into the equations tab and did my calculations over again.  This time assigning variables for all of the values I used in my hand calculations and confirming my beam length calculation.  The beam was still a little long after seeing it modeled, but it was decent enough to justify leaving it as is.
 
+# **FEA Generation**
+
 ![Material Properties](Material_Properties.png)
 
-Preparing to run the study for the FEA, I assigned one of the aluminum materials that were available.  Because none of them had a modulus that matched the one I had selected, or was around the given range, I chose the closest pick that I found.  With the material in place, I placed fixed geometry on one end of my beam and my applied load facing the other direction on the opposite end.  Finally, I added the mesh to the beam with the default conditions and ran the study.
+Preparing to run the study for the FEA, I assigned one of the aluminum materials that were available.  Because none of them had a modulus that matched the one I had selected, or was around the given range, I chose the closest pick that I found.  With the material in place, I placed fixed geometry on one end of my beam and my applied load of 400 lbf facing the other direction on the opposite end.  Finally, I added the mesh to the beam with the default conditions and ran the study.
 
 ![Deflection](Deflection.png)
+
+First I looked at my deflection map generated in the FEA.  The maximum deflection shown in the FEA was 0.00902 inches.  This result stood up to the initial parameters given very well.
+
+![Von Mises](Von_Mises_ss.png)
 
 
 
