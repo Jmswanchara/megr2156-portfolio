@@ -8,7 +8,13 @@ The objective of this assignment was to design a circular beam with maximum defl
 
 ![A03_scribbles](A03_scribbles.jpg)
 
-To start, I chose a diameter which I could use to calculate the cross-sectional area.  I decided to go with a 1 inch diameter in an effort to keep it the calculation as simple as possible.  I then found the cross-sectional area and placed it into the equation for elongation from the Machinery's Handbook which was reconfigured to find the length of the beam.  
+To start, I chose a diameter which I could use to calculate the cross-sectional area.  I decided to go with a 4 inch diameter because I didn't have a good reference ahead of time, but I would return to revise this step.  I then found the cross-sectional area and placed it into the equation for elongation from the Machinery's Handbook which was reconfigured to find the length of the beam.  After seeing how large this length was, around 3000 inches, I decided to go back and alter my initial diameter to 1 inch, simplifying my area calculation and trimming the length of my beam.  I was now ready to model the beam in SolidWorks.
+
+![beam](Beam.png)
+
+With my finished model, I went into the equations tab and did my calculations over again.  This time assigning variables for all of the values I used in my hand calculations and confirming my beam length calculation.  The beam was still a little long after seeing it modeled, but it was decent enough to justify leaving it as is.
+
+![Material Properties](Material_Properties.png)
 
 ## Decide
 
