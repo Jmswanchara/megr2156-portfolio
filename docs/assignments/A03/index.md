@@ -6,13 +6,13 @@ The objective of this assignment was to design a circular beam with maximum defl
 
 ## Analyze
 
-# **Hand Calculations**
+## **Hand Calculations**
 
 ![A03_scribbles](A03_scribbles.jpg)
 
 To start, I chose a diameter which I could use to calculate the cross-sectional area.  I decided to go with a 4 inch diameter because I didn't have a good reference ahead of time,  but I would return to revise this step.  I also chose a 400 lbf load, and 10*10^6 psi modulus.  I then found the cross-sectional area and placed it into the equation for elongation from the Machinery's Handbook which was reconfigured to find the length of the beam.  After seeing how large this length was, around 3000 inches, I decided to go back and alter my initial diameter to 1 inch, simplifying my area calculation and trimming the length of my beam.  I was now ready to model the beam in SolidWorks.
 
-# **CAD**
+## **CAD**
 
 [A03 Part](A03.SLDPRT)
 
@@ -20,7 +20,7 @@ To start, I chose a diameter which I could use to calculate the cross-sectional 
 
 With my finished model, I went into the equations tab and did my calculations over again.  This time assigning variables for all of the values I used in my hand calculations and confirming my beam length calculation.  The beam was still a little long after seeing it modeled, but it was decent enough to justify leaving it as is.
 
-# **FEA Generation**
+## **FEA Generation**
 
 ![Material Properties](Material_Properties.png)
 
@@ -36,7 +36,7 @@ After analyzing my von Mises stress map, I saw that my maximum stress was 555.1 
 
 ## Decide
 
-# **Design Reflection**
+## **Design Reflection**
 
 ![Error Calculation](5902.jpg)
 
