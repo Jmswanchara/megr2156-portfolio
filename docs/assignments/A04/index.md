@@ -2,6 +2,7 @@
 
 ## Objective
 
+![A4_motor](A4_motor.png)
 
 ## Feature 1
 
