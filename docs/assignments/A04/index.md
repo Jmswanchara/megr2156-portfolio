@@ -64,9 +64,15 @@ Starting with the first feature, I sketched out the model and extruded it using 
 
 ![A4 Bolts 2](A4_bolts2.png)
 
+The bolts were my biggest concern for the model because I wasn't sure where I would want install them on the second feature.  I determined the most reasonable and even placements from dividing the dimensions from the parametric equations so they were all equally spaced from their reference edges.  This was easier for the first feature since it had a square face, but I used the same method and split the section into quarters as well.
+
 ![A4 Ribs](A4_ribs.png)
 
+The final addition I made to the model too some time to figure out, but I decided on adding ribs to the model since I found that they were effective for minimizing the deflection.  Implementing the ribs feature of the software took a very long time, since I had to relearn how to satisfy the criteria.  I couldn't be too sure of the size and what was best for the deflection, but I decided to go with my first guess after getting the opposing planes to function.
+
 ![CAD Model](A4_CAD.png)
+
+The image above represents my final product as an isometric view in SolidWorks.
 
 [A4.SLDPRT](A4.SLDPRT)
 
