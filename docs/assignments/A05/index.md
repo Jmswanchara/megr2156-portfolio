@@ -44,3 +44,6 @@ Below I compiled all of my results into two orthographic drawings, one for stres
 
 ## Communicate
 
+Across the board, stress governed over stiffness in my calculations, by a landslide in a couple instances.  The most notable example for me was in feature A, where stress governed the diameter of the feature by almost 0.5 inches.  This was the largest gap across all of my results, and leads me to wonder if this was my own error, since if that is the case then all of the following calculations would have been incorrect.  Feature A remains the best example for error propagation as well.  I realized somewhere in feature C that I initially based the length of the feature off of the exact strap length, and that this wouldn't work for my calculations or make any sense in general compared to ither dimensions.  To give myself clearance, I went back to the beginning and doubled the length so I could have some more room to maneuver.  In feature C, I made the assumption that the load was split evenly between features D and E because of the symmetry in the design.  If this assumption turned out to be false, then the cross sectional area of both sides would need to change to accommodate for the distribution of the load.
+
+This assignment took 6 hours.
