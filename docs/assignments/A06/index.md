@@ -8,7 +8,7 @@ The objective of this assignment was to take the results from last weeks assignm
 
 First, I needed to take my work from last week and recreate it in CAD. The majority of my dimensions came directly from the equations tab.  I had no issues translating my work for the first three features, but D and E would take a while because I wasn't satisfied with their extra long design.
 
-![A6 Equations](A6_Equations.png)
+![A6 Equations](A6_equations.png)
 
 ![A6 Feature 1](A6_Feature1.png)
 
