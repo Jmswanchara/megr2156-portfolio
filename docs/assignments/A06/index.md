@@ -24,20 +24,22 @@ I came to the unfortunate realization that I had left out an important piece of 
 
 ![A6 Feature 5](A6_Feature5.png)
 
+For both this feature and the previous one, I swapped between methods of modeling them multiple times.  For example, I wasn't sure If I should design feature C to include the entire bottom surface, or let it be fitted between the two symmetrical extrusions of D.  I opted for the latter.
+
 ![A6 Final Bracket](A6_FinalBracket.png)
 
 ## Drawing
 
 ![A6 Drawing](A6_Drawing_ss.png)
 
-
+This is my completed drawing.  I found with a little research that third angle projection didn't require an isometric view, so I didn't include one.  I filled out as much information as I could in the title block.  I was cautious not to repeat dimensions across the different projections and make sure they were spaced out and easy to digest. I also made a note to highlight the most prominent dimensions in each view.
 
 [A6_Bracket Drawing](A6_Bracket.SLDDRW)
 
-[A6_Bracket Drawing](A6_Bracket.SLDprt)
+[A6_Bracket Model](A6_Bracket.SLDprt)
 
 ## Reflection
 
-
+To find the width of feature D, I used the axial stress formula P/A.  Since this was a direct connection to the height of D, putting the equations under the global variables allowed me to change the width automatically when I readjusted the height of AD to the given value c from the appendix.  
 
 This assignment took me 5 hours.
