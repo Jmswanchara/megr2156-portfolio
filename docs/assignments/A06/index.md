@@ -24,11 +24,17 @@ I came to the unfortunate realization that I had left out an important piece of 
 
 ![A6 Feature 5](A6_Feature5.png)
 
+![A6 Final Bracket](A6_FinalBracket.png)
+
 ## Drawing
 
 ![A6 Drawing](A6_Drawing_ss.png)
 
 
+
+[A6_Bracket Drawing](A6_Bracket.SLDDRW)
+
+[A6_Bracket Drawing](A6_Bracket.SLDprt)
 
 ## Reflection
 
