@@ -30,16 +30,16 @@ For both this feature and the previous one, I swapped between methods of modelin
 
 ## Drawing
 
-![A6 Drawing](A6_Drawing_ss.png)
+![A6 Drawing](A6_drawing_new.png)
 
 This is my completed drawing.  I found with a little research that third angle projection didn't require an isometric view, so I didn't include one.  I filled out as much information as I could in the title block.  I was cautious not to repeat dimensions across the different projections and make sure they were spaced out and easy to digest. I also made a note to highlight the most prominent dimensions in each view.
 
 [A6_Bracket Drawing](A6_Bracket.SLDDRW)
 
-[A6_Bracket Model](A6_Bracket.SLDprt)
+[A6_Bracket Model](A6_Bracket.SLDPRT)
 
 ## Reflection
 
-To find the width of feature D, I used the axial stress formula P/A.  Since this was a direct connection to the height of D, putting the equations under the global variables allowed me to change the width automatically when I readjusted the height of AD to the given value c from the appendix.  
+To find the width of feature D, I used the axial stress formula P/A.  Since this was a direct connection to the height of D, putting the equations under the global variables allowed me to change the width automatically when I readjusted the height of D to the given value c from the appendix.  I applied three decimal tolerance to the height of feature D because it was crucial to making sure the T beam fit into the bracket and wasn't too short.  I applied a less strict tolerance to the diameter of feature A because it didn't need to fit into any other parts, so it wasn't as significant to the functionality of the bracket.  A stricter tolerance means a more expensive part.  The more exact the dimension needs to be, the more time and machining is required.  Applying this across the board means a significantly more expensive part that is wasting resources on parts that don't require as much attention.
 
 This assignment took me 5 hours.
