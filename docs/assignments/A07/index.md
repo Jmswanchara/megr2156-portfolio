@@ -24,7 +24,7 @@
       1.537 x 10^5 psi<br>
     </td>
     <td>
-      <img src="images/d2_stress.png" width="250"><br>
+      <img src="Test2_vonmises_mid.png" width="250"><br>
       1.747 x 10^5 psi<br>
     </td>
     <td>
