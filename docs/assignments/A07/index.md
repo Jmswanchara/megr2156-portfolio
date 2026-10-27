@@ -152,5 +152,7 @@
   </tr>
 </table>
 
+![Addition](Bracket_Addition_A7.png)
+
 ## Study 3
 
