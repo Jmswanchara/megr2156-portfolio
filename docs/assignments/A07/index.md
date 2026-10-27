@@ -21,7 +21,7 @@
     <td><b>Max Stress and location</b></td>
     <td>
       <img src="images/d1_stress.png" width="250"><br>
-      XX MPa<br>
+      1.537 x 10^5 psi<br>
       Location: ___
     </td>
     <td>
