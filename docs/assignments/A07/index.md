@@ -2,9 +2,9 @@
 
 ## Objective
 
-[Objectives_A7](objectives_A7.png)!
+![Objectives](objectives_A7.png)
 
-[Workflow](workflow_A7.png)!
+![Workflow](workflow_A7.png)!
 
 ## Study 1
 
