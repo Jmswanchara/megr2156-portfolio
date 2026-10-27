@@ -20,7 +20,7 @@
   <tr>
     <td><b>Max Stress and location</b></td>
     <td>
-      <img src="images/d1_stress.png" width="250"><br>
+      <img src="images/Test1_vonmises_coarse.png" width="250"><br>
       1.537 x 10^5 psi<br>
     </td>
     <td>
@@ -38,43 +38,40 @@
     <td><b>Max deflection and location</b></td>
     <td>
       <img src="images/d1_disp.png" width="250"><br>
-      XX mm<br>
-      Location: ___
+      9.244 x 10^-2 in<br>
     </td>
     <td>
       <img src="images/d2_disp.png" width="250"><br>
-      XX mm<br>
-      Location: ___
+      9.688 x 10^-2 in<br>
     </td>
     <td>
       <img src="images/d3_disp.png" width="250"><br>
-      XX mm<br>
-      Location: ___
+      2.249 x 10^-2 in<br>
     </td>
   </tr>
 
   <!-- MASS -->
   <tr>
     <td><b>Mass</b></td>
-    <td>XX g</td>
-    <td>XX g</td>
-    <td>XX g</td>
+    <td>0.85 lbs</td>
+    <td>0.85 lbs</td>
+    <td>0.85 lbs</td>
   </tr>
 
   <!-- SAFETY FACTOR -->
   <tr>
     <td><b>Safety Factor</b></td>
-    <td>XX</td>
-    <td>XX</td>
-    <td>XX</td>
+    <td>2.36 x 10^-1</td>
+    <td>2.075 x 10^-1</td>
+    <td>7.635 x 10^-1</td>
   </tr>
 
   <!-- NUMBER OF ELEMENTS -->
   <tr>
     <td><b>Number of elements</b></td>
-    <td>XX</td>
-    <td>XX</td>
-    <td>XX</td>
+    <td>1746</td>
+    <td>9944</td>
+    <td>65166</td>
   </tr>
 </table>
 
