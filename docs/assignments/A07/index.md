@@ -37,11 +37,11 @@
   <tr>
     <td><b>Max deflection and location</b></td>
     <td>
-      <img src="images/d1_disp.png" width="250"><br>
+      <img src="Test1_deflection_coarse.png" width="250"><br>
       9.244 x 10^-2 in<br>
     </td>
     <td>
-      <img src="images/d2_disp.png" width="250"><br>
+      <img src="Test2_deflection_mid.png" width="250"><br>
       9.688 x 10^-2 in<br>
     </td>
     <td>
