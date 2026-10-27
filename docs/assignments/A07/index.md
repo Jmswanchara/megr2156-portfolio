@@ -20,7 +20,7 @@
   <tr>
     <td><b>Max Stress and location</b></td>
     <td>
-      <img src="Test1_vonmises_coarse.png" width="250"><br>
+      <img src="Test1_vonmises_coarse_A7.png" width="250"><br>
       1.537 x 10^5 psi<br>
     </td>
     <td>
