@@ -22,17 +22,14 @@
     <td>
       <img src="images/d1_stress.png" width="250"><br>
       1.537 x 10^5 psi<br>
-      Location: ___
     </td>
     <td>
       <img src="images/d2_stress.png" width="250"><br>
-      XX MPa<br>
-      Location: ___
+      1.747 x 10^5 psi<br>
     </td>
     <td>
       <img src="images/d3_stress.png" width="250"><br>
-      XX MPa<br>
-      Location: ___
+      4.749 x 10^-4 psi<br>
     </td>
   </tr>
 
