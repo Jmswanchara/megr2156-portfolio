@@ -189,15 +189,15 @@
   <tr>
     <td><b>Max deflection and location</b></td>
     <td>
-      <img src="Test3_deflection_coarse.png" width="250"><br>
+      <img src="Test5_deflection_coarse.png" width="250"><br>
       1.169 x 10^-3 in<br>
     </td>
     <td>
-      <img src="Test4_deflection_mid.png" width="250"><br>
+      <img src="Test6_deflection_mid.png" width="250"><br>
       1.23 x 10^-3 in<br>
     </td>
     <td>
-      <img src="2_deflection_fine.png" width="250"><br>
+      <img src="3_deflection_fine.png" width="250"><br>
       2.837 x 10^-4 in<br>
     </td>
   </tr>
