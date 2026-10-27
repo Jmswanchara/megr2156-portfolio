@@ -158,11 +158,13 @@ Following the first study, I returned to the original model to make a design cha
   </tr>
 </table>
 
+Running these numbers through the same convergence formula, the exact same instance occurred as with the first test, the deflection matched the criteria but nothing else did.  Because of this I again had to return to the fine mesh model and run the study again.  My numbers were again noticeably further away from the requirement, but I stopped here because it was my final attempt to reach convergence.  I would need to make more design changes before I could attempt convergence again.
+
 ## Test 3
 
 ![Addition](Bracket_addition_A7.png)
 
-
+The final modification I decided on was a stronger reinforcement of the bar holding the strap.  I believed that this would make a massive improvement for my design and increase the likelihood of reaching convergence in the next and final test.  This change came about from looking at the deformation of the bar in both of the previous tests, and would hopefully result in a sturdier bracket. 
 
 <table>
   <tr>
@@ -231,7 +233,13 @@ Following the first study, I returned to the original model to make a design cha
   </tr>
 </table>
 
+After the final test and measure for convergence, I found that my effort in the latest modification wasn't effective in the way I wanted it to be.  The values that I made note of in my chart were very different this time around, so my changes were impactful, but they didn't make a huge difference with the convergence calculations as their was still a large gap between my fine mesh and the coarse and mid meshes.  After all three tests, I was unable to get any semblance of convergence. 
+
 ## Reflection
+
+Through this assignment, I learned how to execute an FEA in SolidWorks and adapt the design from the results of each test.  I learned the effect that the meshes have on the studies and why it is important that the process be kept to a strict cycle in order to avoid back tracking.  During this assignment, I improperly calculated for convergence and believed I had fit the criteria for all three tests and didn't run a study for fine mesh.  Upon my discovery, I had to undo the modifications I made and go back to my initial design from the previous weekly assignment.  It is very likely that this instance is what led to my meshes becoming so disconnected so far into my work.  The overall experience from the last few combined assignments with the same bracket have been very eye opening, seeing a number of different engineering processes be applied to a single part in the real world.  This took me between 3 and 4 hours.
+
+## CAD
 
 
 
