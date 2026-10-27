@@ -11,9 +11,9 @@
 <table>
   <tr>
     <th></th>
-    <th>Design I</th>
-    <th>Design II</th>
-    <th>Design III</th>
+    <th>Coarse</th>
+    <th>Mid</th>
+    <th>Fine</th>
   </tr>
 
   <!-- MAX STRESS -->
