@@ -2,7 +2,7 @@
 
 ## Objective
 
-[Objectives](objectives_A7.png)!
+[Objectives_A7](objectives_A7.png)!
 
 [Workflow](workflow_A7.png)!
 
