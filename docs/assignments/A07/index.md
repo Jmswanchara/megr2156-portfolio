@@ -241,6 +241,6 @@ Through this assignment, I learned how to execute an FEA in SolidWorks and adapt
 
 ## CAD
 
-
+![A7 Model](A6_Bracket.SLDPRT)
 
 
