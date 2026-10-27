@@ -28,7 +28,7 @@
       1.747 x 10^5 psi<br>
     </td>
     <td>
-      <img src="Test3_vonmises_fine.png" width="250"><br>
+      <img src="Test1_vonmises_fine.png" width="250"><br>
       4.749 x 10^-4 psi<br>
     </td>
   </tr>
@@ -45,7 +45,7 @@
       9.688 x 10^-2 in<br>
     </td>
     <td>
-      <img src="Test3_deflection_fine.png" width="250"><br>
+      <img src="Test1_deflection_fine.png" width="250"><br>
       2.249 x 10^-2 in<br>
     </td>
   </tr>
