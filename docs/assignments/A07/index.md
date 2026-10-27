@@ -105,7 +105,7 @@
       1.705 x 10^5 psi<br>
     </td>
     <td>
-      <img src=".png" width="250"><br>
+      <img src="2_vonmises_fine.png" width="250"><br>
       4.817 x 10^-4 psi<br>
     </td>
   </tr>
@@ -122,7 +122,7 @@
       9.691 x 10^-2 in<br>
     </td>
     <td>
-      <img src=".png" width="250"><br>
+      <img src="2_deflection_fine.png" width="250"><br>
       2.247 x 10^-2 in<br>
     </td>
   </tr>
