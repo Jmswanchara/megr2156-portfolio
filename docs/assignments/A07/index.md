@@ -45,7 +45,7 @@
       9.688 x 10^-2 in<br>
     </td>
     <td>
-      <img src="Test2_deflection.png" width="250"><br>
+      <img src="Test2_deflection_fine.png" width="250"><br>
       2.249 x 10^-2 in<br>
     </td>
   </tr>
