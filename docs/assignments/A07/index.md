@@ -152,7 +152,14 @@
   </tr>
 </table>
 
+## Study 3
+
 ![Addition](Bracket_addition_A7.png)
 
-## Study 3
+
+
+
+
+
+
 
