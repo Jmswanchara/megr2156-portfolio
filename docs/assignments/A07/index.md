@@ -152,7 +152,7 @@
   </tr>
 </table>
 
-![Addition](Bracket_Addition_A7.png)
+![Addition](Bracket_addition_A7.png)
 
 ## Study 3
 
