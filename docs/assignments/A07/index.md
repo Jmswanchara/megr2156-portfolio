@@ -6,7 +6,7 @@
 
 ![Workflow](workflow_A7.png)
 
-## Study 1
+## Preparation
 
 ![Bracket Material](Bracket_Material_A7.png)
 
@@ -15,6 +15,8 @@
 ![Bracket Fixtures](Bracket_Fixtures_A7.png)
 
 
+
+## Study 1
 
 <table>
   <tr>
@@ -106,7 +108,7 @@
     </td>
     <td>
       <img src="2_vonmises_fine.png" width="250"><br>
-      4.817 x 10^-4 psi<br>
+      4.817 x 10^4 psi<br>
     </td>
   </tr>
 
@@ -158,7 +160,72 @@
 
 
 
+<table>
+  <tr>
+    <th></th>
+    <th>Coarse</th>
+    <th>Mid</th>
+    <th>Fine</th>
+  </tr>
 
+  <!-- MAX STRESS -->
+  <tr>
+    <td><b>Max Stress and location</b></td>
+    <td>
+      <img src="Test5_vonmises_coarse.png" width="250"><br>
+      1.405 x 10^4 psi<br>
+    </td>
+    <td>
+      <img src="Test6_vonmises_mid.png" width="250"><br>
+      1.854 x 10^4 psi<br>
+    </td>
+    <td>
+      <img src="3_vonmises_fine.png" width="250"><br>
+      5.988 x 10^3 psi<br>
+    </td>
+  </tr>
+
+  <!-- MAX DEFLECTION -->
+  <tr>
+    <td><b>Max deflection and location</b></td>
+    <td>
+      <img src="Test3_deflection_coarse.png" width="250"><br>
+      1.169 x 10^-3 in<br>
+    </td>
+    <td>
+      <img src="Test4_deflection_mid.png" width="250"><br>
+      1.23 x 10^-3 in<br>
+    </td>
+    <td>
+      <img src="2_deflection_fine.png" width="250"><br>
+      2.837 x 10^-4 in<br>
+    </td>
+  </tr>
+
+  <!-- MASS -->
+  <tr>
+    <td><b>Mass</b></td>
+    <td>1.00 lbs</td>
+    <td>1.00 lbs</td>
+    <td>1.00 lbs</td>
+  </tr>
+
+  <!-- SAFETY FACTOR -->
+  <tr>
+    <td><b>Safety Factor</b></td>
+    <td>2.58</td>
+    <td>1.955</td>
+    <td>6.056</td>
+  </tr>
+
+  <!-- NUMBER OF ELEMENTS -->
+  <tr>
+    <td><b>Number of elements</b></td>
+    <td>1798</td>
+    <td>10323</td>
+    <td>74765</td>
+  </tr>
+</table>
 
 
 
