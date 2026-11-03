@@ -14,21 +14,33 @@ For this assignment, I combined my work for the input and output shaft into one 
 
 ![Page 2](Page_2_A8.png)
 
-
+Using the values carried over from the first section, I again laid out my known and unknown values and drew FBDs that went for each of the shafts.  I used the same process as before to combine the work for both shafts and solve for pressure and velocity.  These values would be very important for determining what material would be selected.
 
 ![Table](table_A8.png)
 
+After looking at Table 4 from the lecture slides, I determined that porous bronze would be the most comfortable selection based off of my results thus far.   
+
 ![Page 3](Page_3_A8.png)
+
+Before moving on to SolidWorks, I needed to calculate the minimum thickness of both shafts.  Alongside these calculations, I drew another FBD that showed the relationship between the stresses around the bearing.  After calculating these, I could compare the results to the journal bearings on McMaster-Carr to find the best selection for my calculations.  Finally, I drew another sketch that showed my idea for how my gearbox was gonna turn out.
 
 ## CAD Design
 
 ![Gears](the_gears_A8.png)
 
+I downloaded the required gears as instructed on the assignment page.
+
 ![Equations](equations_A8.png)
+
+I inserted my equations into SolidWorks so that I could import it into all of my other upcoming CAD models.  This allowed me to save a lot of time and made it easier to line up these models when it the time came to assemble them.  
 
 ![Bearings](recreated_bearing_A8.png)
 
+I ran into an issue with the journal bearings because I was getting an error that inhibited me from downloading the CAD models of the bearings I needed.  Because of this, I needed to pivot the assignment to make my own bearings, since I couldn't continue with the finished product until then.  Here is one of the two models that I recreated based on the McMaster-Carr models 6391K111 and 6391K131.
+
 ![Empty Gearbox](empty_gearbox_A8.png)
+
+The final pieces I needed to prepare for the assembly were the gearbox and the lid.  Both pieces were mostly identical, the empty gearbox just had a thicker extrusion and a shell feature, while the lid was a flat surface that would be press-fit onto it.  These went by fairly quickly with the imported equations sheet.
 
 ## Assembly
 
