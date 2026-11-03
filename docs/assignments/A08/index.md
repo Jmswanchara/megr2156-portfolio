@@ -14,5 +14,23 @@
 
 ![Page 3](Page_3_A8.png)
 
-## Communicate
+![Table](table_A8.png)
+
+## CAD Design
+
+![Gears](the_gears_A8.png)
+
+![Equations](equations_A8.png)
+
+![Bearings](recreated_bearing_A8.png)
+
+![Empty Gearbox](empty_gearbox_A8.png)
+
+## Assembly
+
+![Inside Shell](inside_shell_A8.png)
+
+![Finished Gearbox](finished_gearbox_A8.png)
+
+## Reflection
 
