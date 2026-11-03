@@ -52,7 +52,7 @@ With the final parts modeled, I began to assemble them.  All of the parts that w
 
 Here you can see the finished product.  The first thing that stood out to me was the length of the shafts inside of the gearbox.  Either they were too short, or the parts that I modeled around them were too big.  I am inclined to believe the latter because the shaft dimensions were all given to use at the beginning of the assignment.  Despite this small error, the rest of the gearbox turned out plenty well and I was very satisfied. 
 
-[full model](full_assembly_A8.SLDASM)
+[Completed Assembly](full_assembly_A8.SLDASM)
 
 ## Reflection
 
