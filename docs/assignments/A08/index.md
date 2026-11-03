@@ -46,7 +46,14 @@ The final pieces I needed to prepare for the assembly were the gearbox and the l
 
 ![Inside Shell](inside_shell_A8.png)
 
+With the final parts modeled, I began to assemble them.  All of the parts that were mated were done so with a coincident, and this allowed the gears to fit together nicely.  I was initially worried the dimensions were gonna be off, but my references and equations pulled through.  This image shows the inside of the gearbox just before I assembled the lid onto it.
+
 ![Finished Gearbox](finished_gearbox_A8.png)
+
+Here you can see the finished product.  The first thing that stood out to me was the length of the shafts inside of the gearbox.  Either they were too short, or the parts that I modeled around them were too big.  I am inclined to believe the latter because the shaft dimensions were all given to use at the beginning of the assignment.  Despite this small error, the rest of the gearbox turned out plenty well and I was very satisfied. 
+
+[full model](full_assembly_A8.SLDASM)
 
 ## Reflection
 
+This biggest thing I learned through this assignment was that models are never guaranteed.  I wasn't sure what to do when the exact models I needed for the journal bearings weren't available to download, but I was fortunate in that all of the specifications were available in the listings, and I could easily recreate them.  This assignment also reminded me of the importance of having the right units set up in SolidWorks, which thankfully was caught before any real work had begone.  This assignment took me 5 hours.
