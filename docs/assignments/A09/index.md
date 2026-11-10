@@ -34,3 +34,4 @@ For the final part of the assignment, above is a simple design I made for the pu
 
 ## Reflection
 
+During this assignment, I learned how to evaluate for pressure in a pulley system using the tight and loose tensions.  I also learned how my chosen parameters impacted the different diameters associated with the system and how this impacted the selection of bearing material and belt selection.  This assignment took 3 hours to complete.
