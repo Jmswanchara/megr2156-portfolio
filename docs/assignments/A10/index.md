@@ -23,6 +23,7 @@ The first part I did was find the diameter, using the axial stress. First, I sta
 
 
 I treated the screw as a solid cylindrical shaft. The base is not the actual base and is just a placeholder for the bottom part of the base. For this particular problem, I had trouble figuring out exactly what force to use. We are reminded to consider that there are 2 screws that would be used. Given these factors, I assumed that this meant we would have to split the forces. For this part I went with my intuition and continued with the assignment.
+
 ![mindialead](mindialead.png)
 
 
