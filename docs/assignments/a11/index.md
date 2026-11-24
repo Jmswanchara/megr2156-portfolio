@@ -25,7 +25,7 @@ Using an equation for deflection provided by The Machinery’s Handbook, I was a
 
 Afterwards I began the design process for the coupler. Doing the same old same old process of listing the knowns and unknowns, drawing the FBD’s. We were tasked with finding the outer diameter and thickness of the coupler, to find them we had to use shear stress torsion analysis to find the inner and outer diameter of the coupler. 
 
-Using the following equations, I solved for it algebraically then plugged and chugged. Doing so allowed me to find a thickness of 0.788.With that being said, I found that the outer diameter was 1.0795 inches, so I ended up choosing the Servomotor Precision Flexible Shaft Coupling. This coupler has ⅜” by ½” shaft diameter and an outer diameter of 1-1/16”. I chose this one because the outer diameter was extremely close to our calculated outer diameter and the inner diameter of ⅜” would nicely house our lead screws. The coupler used can be found [here](https://www.mcmaster.com/6854N105/) 
+Using the following equations, I solved for it algebraically then plugged and chugged. Doing so allowed me to find a thickness of 0.788.With that being said, I found that the outer diameter was 1.0795 inches, so I ended up choosing the Servomotor Precision Flexible Shaft Coupling. This coupler has ⅜” by ½” shaft diameter and an outer diameter of 1-1/16”. I chose this one because the outer diameter was extremely close to our calculated outer diameter and the inner diameter of ⅜” would nicely house our lead screws. The coupler used can be found [here](https://www.mcmaster.com/6854N105/).
 
 ![couplergivenandsolved.png](couplergivenandsolved.png)
 
@@ -59,9 +59,10 @@ After fully doing this analysis on the assembly, noting the stress concentration
 ## Vertical component verification FEA - Gavin Winningham
 
 Next was the verification of the vertical components of the frame and assembly. I first started with creating the actual assembly specific to the vertical components and fixing the bottom end, utilizing the FEA and adding the 2,000 newton force on the top load of this vertical component. Next I went into the actual mesh. I first started off with a coarse mesh and ran the simulation. After doing so, the von Mises stress diagram concluded a stress concentration maximum of 3.063 times 10 to the seventh newtons per meter squared. After inspecting the image itself, I noted the stress concentrations were similarly at different corners of the actual object itself. Next, I then looked at the displacement experienced by the vertical component, noting the maximum deflection to be 1.654 times 10 to the 2 millimeters, noting that surprisingly the main deflection was happening at the top of the vertical component. I was initially coming to the assumption that the main deflection would be happening at the center of this vertical component due to its inertia and geometrical components allowing for more movement within that area. Next was the factor of safety. After running the simulation, the factor of safety was concluded to be 1.148 times 10 to the 1.
-![stresscoarse.png](stresscoarse.png)
-![displacementcoarse.png](displacementcoarse.png) ![foscoarse.png](foscoarse.png)
 
+![stresscoarse.png](stresscoarse.png)
+![displacementcoarse.png](displacementcoarse.png)
+![foscoarse.png](foscoarse.png)
 
 After running this simulation on a coarse mesh, I then tried to go to a medium and fine mesh, though it had significant issues regarding number of meshes within the actual simulation, and had errors running the meshes as well as the actual simulation itself. Due to this, I unfortunately only was able to run the simulation on coarse as depicted above.
 
@@ -72,7 +73,7 @@ After concluding the simulation on the vertical components of this assembly, I n
 ## Floating Bearing Mount - Jason Swanchara
 
 
-![A11_float](A11_float.JPG)
+![A11_float](A11_float.jpg)
 
 The floating bearing mount is vital to centering the leadscrew while still enabling slight vertical motion when necessary.  Only the top is fixed and carries the load, 1 KN per screw.  The assignment requires an RC3 fit, which allows for free spinning of the screws and very little wobbling.  Assuming a quarter inch bolt, using Table 8a in the Machinery’s Handbook, clearance would be between 0.5 - 1.5 thousandths of an inch.  This small gap ensures that the journal doesn’t bind and can spin freely.  The mount would be 40 mm wide because it would need to match the rail.  For the height, I said 20 mm because that would guarantee the bush would be fully supported since it was less than that.  Finally, the length would be 80 mm so that both bolts and the bushing are able to fit in that length.  
 
