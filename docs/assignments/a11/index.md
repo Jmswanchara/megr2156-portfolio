@@ -31,7 +31,7 @@ Using the following equations, I solved for it algebraically then plugged and ch
 
 ## Analyze and Design a Frame - Jason Swanchara
 
-![A11_part4](A11_part4.pdf)
+![A11_part4](A11_part4.png)
 
 To find suitable connectors, I used 1018 steel again to keep consistency.  Using the Sy, T, the distance between the center of the center of the beam and bolts, and factor of safety, I found the minimum thickness required of the connectors to be very small.  This likely meant that the thickness would be governed by other factors.  I ended up choosing the 40-4481 5-hole L plate to connect the beam to the two columns.  This worked out because it matched one of the examples given in the appendix of the assignment and matched our dimensions of the frame.  The thickness of the plates is around 6 mm, which is significantly more than we need, but it wasn’t very realistic to find plates that were as thin as I had calculated in my stress analysis.
 
