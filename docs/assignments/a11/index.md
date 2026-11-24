@@ -15,7 +15,7 @@
 | 99030A992 | 2 | Lead Screw | $17.04 | $34.08 | [Purchase Here](https://www.mcmaster.com/99030A992/) |
 | 6627T631 | 2 | Motor | $100.92 | $201.84 | [Purchase Here](https://www.mcmaster.com/6627T631/) |
 | 6854N105 | 2 | Coupler | $191.33 | $382.66 | [Purchase Here](https://www.mcmaster.com/6854N105/) |
-| 40-4481 | 4 | T-Slot Connector | $15.89 | $63.56 | [Purchase Here](https://www.grainger.com) |
+| 40-4481 | 4 | T-Slot Connector | $15.89 | $63.56 | [Purchase Here](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Connecto-906TA2?searchQuery=40-4481&searchBar=true&tier=Tier+6&s_e=false&s_c=solr9) |
 | **Total** | **16** | | | **$980.74** | |
 
 
