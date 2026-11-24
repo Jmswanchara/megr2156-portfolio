@@ -35,23 +35,30 @@ Using the following equations, I solved for it algebraically then plugged and ch
 
 To find suitable connectors, I used 1018 steel again to keep consistency.  Using the Sy, T, the distance between the center of the center of the beam and bolts, and factor of safety, I found the minimum thickness required of the connectors to be very small.  This likely meant that the thickness would be governed by other factors.  I ended up choosing the 40-4481 5-hole L plate to connect the beam to the two columns.  This worked out because it matched one of the examples given in the appendix of the assignment and matched our dimensions of the frame.  The thickness of the plates is around 6 mm, which is significantly more than we need, but it wasn’t very realistic to find plates that were as thin as I had calculated in my stress analysis.
 
-## Top frame verification FEA - Gavin Winningham
+## Top Frame Verification FEA - Gavin Winningham
 
 I first started by creating an assembly utilizing the frame of choice as well as the design motor mount, utilizing previous calculations by my partners. I then assembled the structure depicted below and conducted a simulation, fixing the ends of the assembly and the motor mounts and applying our 2,000 newton force at the motor mount.
 
 
-![Screenshot 2026-11-23 210050.png](Screenshot 2026-11-23 210050.png)
+![Screenshot 2026-11-23 210050.png](Screenshot_2026-11-23_210050.png)
+
 I first started off with a coarse mesh for this analysis. After doing so, with the Von Mises stress analysis, got a peak stress of 8.757 times 10 to the seventh newtons per meter squared. After looking at the actual deflection itself and the stress concentrations, there didn't seem to be nearly as much, except for at the individual corners of the motor mounts. Moving on to the deflection, there was a significant deflection near the center of the assembly, specifically within the frame itself, with a max deflection of 1.57 times 10 to the 2 millimeters. Then utilizing the factor of safety, for this specific part, I ended up getting from the simulation a factor of safety of 4.015.
 
 ![Screenshot 2026-11-23 211631.png](Screenshot_2026-11-23_211631.png)
+
 ![Screenshot 2026-11-23 211702.png](Screenshot_2026-11-23_211702.png)
+
 ![Screenshot 2026-11-23 212201.png](Screenshot_2026-11-23_212201.png)
+
 Next, I then moved on to the medium mesh for this design, starting off with the von Mises stress. I ended up getting a peak stress concentration of 7.777 times 10 to the seventh newtons per meter squared, specifically at the same concentrations of corners within the actual assembly itself. Next was the peak deflection that this part experienced, noting similar deflection areas, specifically within the center, with a max deflection of 1.661 times 10 to the second millimeters. Moving on to the factor of safety experienced by the simulation, it ended up getting a value of 4.521.
 
 
-![Screenshot 2026-11-23 213003.png](Screenshot 2026-11-23 213003.png)
-![Screenshot 2026-11-23 213030.png](Screenshot 2026-11-23 213030.png)
-![Screenshot 2026-11-23 213128.png](Screenshot 2026-11-23 213128.png)
+![Screenshot 2026-11-23 213003.png](Screenshot_2026-11-23_213003.png)
+
+![Screenshot 2026-11-23 213030.png](Screenshot_2026-11-23_213030.png)
+
+![Screenshot 2026-11-23 213128.png](Screenshot_2026-11-23_213128.png)
+
 Going further with the analysis of this assembly, my computer unfortunately had some issues in regards to going to the finest mesh quality. There were too many items for my computer to handle and I tried multiple ways of seeing how I could manipulate it to account for this. Unfortunately, I was not able to go to the finest mesh quality for this assignment.
 ### Optimization Pass
 After fully doing this analysis on the assembly, noting the stress concentrations as well as the significant deflection in the center, the main optimizations that could be done to improve this design is adding chamfers and anything to assist with the stress concentrations at the different edges of the object itself, as well as utilizing thicker frames to account for the significant deflection at the center of the simulation. Adding more material would reduce the deflection experienced and would optimize it.
@@ -106,3 +113,6 @@ The floating bearing mount is vital to centering the leadscrew while still enabl
 This assignment really pushed the team’s limits. We learned how to apply the lessons taught in last week’s lecture in real life. We also learned that time management is critical to completing these assignments on time. We learned how to apply bearing stress to the bracket that supports the motor, it took hours to get right. We also learned how to optimize an assembly in solidworks, and how to troubleshoot issues on the fly. One of our laptops wasn't happy with the assembly being created. Finally, the last thing we learned was to make sure to double check dimensions before adding materials to the list, because it just wastes time having to look back through the database for the correct size for the assembly.
 
 Overall this assignment took us over 13+  hours to complete.
+
+The files for the CAD can be found [here](cadfiles.zip). 
+
