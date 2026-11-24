@@ -25,7 +25,7 @@
 | [Gavin Winningham] | [14] | $35.00 | $[490] |
 | | | **Total Cost** | **$[1,330]** |
 
-**Total Cost of Project:** $980.74 (materials) + $[1,330] (labor) = **$2,310.74**
+**Total Cost of Project:** = $980.74 + $1,330 = **$2,310.74**
 
 
 ## Communicate
