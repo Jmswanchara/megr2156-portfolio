@@ -43,9 +43,9 @@ I first started by creating an assembly utilizing the frame of choice as well as
 ![Screenshot 2026-11-23 210050.png](Screenshot 2026-11-23 210050.png)
 I first started off with a coarse mesh for this analysis. After doing so, with the Von Mises stress analysis, got a peak stress of 8.757 times 10 to the seventh newtons per meter squared. After looking at the actual deflection itself and the stress concentrations, there didn't seem to be nearly as much, except for at the individual corners of the motor mounts. Moving on to the deflection, there was a significant deflection near the center of the assembly, specifically within the frame itself, with a max deflection of 1.57 times 10 to the 2 millimeters. Then utilizing the factor of safety, for this specific part, I ended up getting from the simulation a factor of safety of 4.015.
 
-![Screenshot 2026-11-23 211631.png](Screenshot 2026-11-23 211631.png)
-![Screenshot 2026-11-23 211702.png](Screenshot 2026-11-23 211702.png)
-![Screenshot 2026-11-23 212201.png](Screenshot 2026-11-23 212201.png)
+![Screenshot 2026-11-23 211631.png](Screenshot_2026-11-23_211631.png)
+![Screenshot 2026-11-23 211702.png](Screenshot_2026-11-23_211702.png)
+![Screenshot 2026-11-23 212201.png](Screenshot_2026-11-23_212201.png)
 Next, I then moved on to the medium mesh for this design, starting off with the von Mises stress. I ended up getting a peak stress concentration of 7.777 times 10 to the seventh newtons per meter squared, specifically at the same concentrations of corners within the actual assembly itself. Next was the peak deflection that this part experienced, noting similar deflection areas, specifically within the center, with a max deflection of 1.661 times 10 to the second millimeters. Moving on to the factor of safety experienced by the simulation, it ended up getting a value of 4.521.
 
 
